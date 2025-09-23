@@ -1,16 +1,29 @@
-# flutter_application_2
+🌾 **Aplikasi Flutter Pertanian**
 
-A new Flutter project.
+---
 
-## Getting Started
+Aplikasi Pertanian berbasis **Flutter** ini dirancang sebagai pusat informasi digital untuk membantu petani dan masyarakat dalam mengakses pengetahuan pertanian secara cepat, praktis, dan akurat.
 
-This project is a starting point for a Flutter application.
+🔎 **Fitur Utama:**
 
-A few resources to get you started if this is your first Flutter project:
+* 🌱 **Varietas Padi**
+  Informasi lengkap mengenai berbagai varietas padi: keunggulan, ketahanan terhadap hama, kebutuhan air, hingga potensi hasil panen.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* 💧 **Panduan Pupuk**
+  Rekomendasi jenis pupuk, dosis, serta waktu aplikasi yang tepat untuk meningkatkan produktivitas tanaman.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 💊 **Obat-Obatan Pertanian**
+  Daftar pestisida, fungisida, dan herbisida beserta kegunaan, cara pemakaian, serta tips penggunaan yang aman dan ramah lingkungan.
+
+* 🏞 **Panduan Lahan**
+  Informasi tentang pengolahan lahan, sistem irigasi, rotasi tanaman, hingga pemilihan lahan sesuai jenis varietas.
+
+⚙️ **Kelebihan Aplikasi:**
+
+* Dibangun dengan **Flutter** sehingga aplikasi ringan, cepat, dan bisa digunakan di Android maupun iOS.
+* Tampilan modern dan mudah dipahami, cocok untuk petani maupun masyarakat umum.
+* Konten informatif yang dapat diperbarui sesuai perkembangan teknologi pertanian terbaru.
+
+Dengan aplikasi ini, petani dapat memperoleh **pengetahuan praktis** untuk mengelola lahan, memilih varietas unggul, serta menerapkan pemupukan dan pengendalian hama yang tepat.
+
+---
